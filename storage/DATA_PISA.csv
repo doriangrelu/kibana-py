@@ -1,0 +1,96 @@
+﻿Country Name,Country Code,Series,Series Code,2012 [YR2012],2015 [YR2015],2018 [YR2018]
+France,FRA,PISA: Mean performance on the science scale. Female,LO.PISA.SCI.FE,500.157115505064,494.034208242238,493.459970210797
+France,FRA,PISA: Mean performance on the science scale. Male,LO.PISA.SCI.MA,497.716341579696,495.935280145541,492.507021484993
+France,FRA,PISA: Mean performance on the science scale,LO.PISA.SCI,498.970894151481,494.9776,492.977076058355
+France,FRA,PISA: Mean performance on the reading scale. Male,LO.PISA.REA.MA,482.971515216203,484.629285665973,480.324763963823
+France,FRA,PISA: Mean performance on the reading scale. Female,LO.PISA.REA.FE,526.765410016808,513.764019445618,505.223674818828
+France,FRA,PISA: Mean performance on the reading scale,LO.PISA.REA,505.481483378022,499.3061,492.606481334553
+France,FRA,PISA: Mean performance on the mathematics scale. Male,LO.PISA.MAT.MA,499.354754058026,495.931687909498,498.544845511855
+France,FRA,PISA: Mean performance on the mathematics scale. Female,LO.PISA.MAT.FE,490.852617985955,489.954043002625,492.184622751844
+France,FRA,PISA: Mean performance on the mathematics scale,LO.PISA.MAT,494.98467432064,492.9204,495.407581444032
+Kazakhstan,KAZ,PISA: Mean performance on the science scale. Female,LO.PISA.SCI.FE,428.971365390986,457.860189557038,400.901187476459
+Kazakhstan,KAZ,PISA: Mean performance on the science scale. Male,LO.PISA.SCI.MA,420.411443365237,455.195445745748,393.516162989227
+Kazakhstan,KAZ,PISA: Mean performance on the science scale,LO.PISA.SCI,424.707522973964,456.4836,397.104835281035
+Kazakhstan,KAZ,PISA: Mean performance on the reading scale. Male,LO.PISA.REA.MA,374.249647995821,419.428220893186,373.845938281003
+Kazakhstan,KAZ,PISA: Mean performance on the reading scale. Female,LO.PISA.REA.FE,411.084097859834,435.383616649192,400.728598911844
+Kazakhstan,KAZ,PISA: Mean performance on the reading scale,LO.PISA.REA,392.736233327227,427.141,386.909274699556
+Kazakhstan,KAZ,PISA: Mean performance on the mathematics scale. Male,LO.PISA.MAT.MA,432.041202642522,459.103758556527,423.773931872769
+Kazakhstan,KAZ,PISA: Mean performance on the mathematics scale. Female,LO.PISA.MAT.FE,431.557436261498,460.577154184526,422.482002862951
+Kazakhstan,KAZ,PISA: Mean performance on the mathematics scale,LO.PISA.MAT,431.798408505079,459.816,423.146133028156
+Korea, Rep.,KOR,PISA: Mean performance on the science scale. Female,LO.PISA.SCI.FE,535.929533799303,520.832926963475,516.888381655968
+Korea, Rep.,KOR,PISA: Mean performance on the science scale. Male,LO.PISA.SCI.MA,539.407711568145,511.215065838711,520.930287343848
+Korea, Rep.,KOR,PISA: Mean performance on the science scale,LO.PISA.SCI,537.787621535186,515.8099,519.007254581204
+Korea, Rep.,KOR,PISA: Mean performance on the reading scale. Male,LO.PISA.REA.MA,524.964649363514,498.068987929607,502.840138194686
+Korea, Rep.,KOR,PISA: Mean performance on the reading scale. Female,LO.PISA.REA.FE,548.20669067247,538.609217621669,526.406274343338
+Korea, Rep.,KOR,PISA: Mean performance on the reading scale,LO.PISA.REA,535.79049035633,517.4367,514.052287958269
+Korea, Rep.,KOR,PISA: Mean performance on the mathematics scale. Male,LO.PISA.MAT.MA,562.11394394887,520.766937362829,527.856147498456
+Korea, Rep.,KOR,PISA: Mean performance on the mathematics scale. Female,LO.PISA.MAT.FE,544.193124828207,527.756665177056,523.814004561439
+Korea, Rep.,KOR,PISA: Mean performance on the mathematics scale,LO.PISA.MAT,553.766659143614,524.1062,525.933001858893
+Jordan,JOR,PISA: Mean performance on the science scale. Female,LO.PISA.SCI.FE,430.401322660353,427.996711055573,443.659661272959
+Jordan,JOR,PISA: Mean performance on the science scale. Male,LO.PISA.SCI.MA,387.819309661635,388.962728445628,414.323395645659
+Jordan,JOR,PISA: Mean performance on the science scale,LO.PISA.SCI,409.36721468725,408.6691,429.252073733676
+Jordan,JOR,PISA: Mean performance on the reading scale. Male,LO.PISA.REA.MA,361.167447291825,371.9123759217,393.064155513261
+Jordan,JOR,PISA: Mean performance on the reading scale. Female,LO.PISA.REA.FE,435.999123544892,443.596394298139,444.155644400536
+Jordan,JOR,PISA: Mean performance on the reading scale,LO.PISA.REA,399.03474710354,408.1022,419.063660710194
+Jordan,JOR,PISA: Mean performance on the mathematics scale. Male,LO.PISA.MAT.MA,375.099358320404,373.001316981648,396.631269400915
+Jordan,JOR,PISA: Mean performance on the mathematics scale. Female,LO.PISA.MAT.FE,395.841478834768,387.377200119624,402.783273076372
+Jordan,JOR,PISA: Mean performance on the mathematics scale,LO.PISA.MAT,385.595556395556,380.259,399.761909259239
+Russian Federation,RUS,PISA: Mean performance on the science scale. Female,LO.PISA.SCI.FE,489.057654024258,484.514284311084,478.007691288123
+Russian Federation,RUS,PISA: Mean performance on the science scale. Male,LO.PISA.SCI.MA,483.532185244232,488.813332768564,477.422880060576
+Russian Federation,RUS,PISA: Mean performance on the science scale,LO.PISA.SCI,486.295489965195,486.631,477.717679762959
+Russian Federation,RUS,PISA: Mean performance on the reading scale. Male,LO.PISA.REA.MA,455.146624925589,481.374349953428,465.775654192082
+Russian Federation,RUS,PISA: Mean performance on the reading scale. Female,LO.PISA.REA.FE,495.143866292427,507.483307009467,491.021511814962
+Russian Federation,RUS,PISA: Mean performance on the reading scale,LO.PISA.REA,475.149374066768,494.6278,478.501933994944
+Russian Federation,RUS,PISA: Mean performance on the mathematics scale. Male,LO.PISA.MAT.MA,481.394132897268,497.089109932956,490.15444832795
+Russian Federation,RUS,PISA: Mean performance on the mathematics scale. Female,LO.PISA.MAT.FE,482.94437840113,491.121915022505,485.457089053246
+Russian Federation,RUS,PISA: Mean performance on the mathematics scale,LO.PISA.MAT,482.169415663317,494.06,487.786538734327
+Turkey,TUR,PISA: Mean performance on the science scale. Female,LO.PISA.SCI.FE,468.622148777013,428.654773670857,472.035110237245
+Turkey,TUR,PISA: Mean performance on the science scale. Male,LO.PISA.SCI.MA,458.316226133852,422.327767020889,464.62782661633
+Turkey,TUR,PISA: Mean performance on the science scale,LO.PISA.SCI,463.412909072733,425.4895,468.299618695693
+Turkey,TUR,PISA: Mean performance on the reading scale. Male,LO.PISA.REA.MA,452.843130763133,414.439583503249,453.100404647248
+Turkey,TUR,PISA: Mean performance on the reading scale. Female,LO.PISA.REA.FE,498.639974431596,442.246080560628,478.380324821023
+Turkey,TUR,PISA: Mean performance on the reading scale,LO.PISA.REA,475.491466080751,428.3351,465.631666498609
+Turkey,TUR,PISA: Mean performance on the mathematics scale. Male,LO.PISA.MAT.MA,451.933741263908,423.37769307719,455.957953005309
+Turkey,TUR,PISA: Mean performance on the mathematics scale. Female,LO.PISA.MAT.FE,443.947870517509,417.527011144285,451.015096440495
+Turkey,TUR,PISA: Mean performance on the mathematics scale,LO.PISA.MAT,447.984414978955,420.454,453.507777946146
+Mexico,MEX,PISA: Mean performance on the science scale. Female,LO.PISA.SCI.FE,411.835990495884,411.553579647457,414.704148263307
+Mexico,MEX,PISA: Mean performance on the science scale. Male,LO.PISA.SCI.MA,418.127882976139,419.751733613811,424.088992195639
+Mexico,MEX,PISA: Mean performance on the science scale,LO.PISA.SCI,414.920147715347,415.7099,419.204719582484
+Mexico,MEX,PISA: Mean performance on the reading scale. Male,LO.PISA.REA.MA,411.365470456648,415.539824738972,414.682773847033
+Mexico,MEX,PISA: Mean performance on the reading scale. Female,LO.PISA.REA.FE,435.272499029741,431.232214218716,425.800462677649
+Mexico,MEX,PISA: Mean performance on the reading scale,LO.PISA.REA,423.55376178166,423.2765,420.468892771172
+Mexico,MEX,PISA: Mean performance on the mathematics scale. Male,LO.PISA.MAT.MA,420.410663581244,411.610512686015,414.917808706934
+Mexico,MEX,PISA: Mean performance on the mathematics scale. Female,LO.PISA.MAT.FE,406.426922155096,404.334869430919,403.165629107169
+Mexico,MEX,PISA: Mean performance on the mathematics scale,LO.PISA.MAT,413.281466667708,408.0235,408.801473754761
+Japan,JPN,PISA: Mean performance on the science scale. Female,LO.PISA.SCI.FE,540.959410064561,531.532898492734,527.777848948894
+Japan,JPN,PISA: Mean performance on the science scale. Male,LO.PISA.SCI.MA,551.947327403179,545.141486623385,530.560154122581
+Japan,JPN,PISA: Mean performance on the science scale,LO.PISA.SCI,546.735599775095,538.3948,529.135433770821
+Japan,JPN,PISA: Mean performance on the reading scale. Male,LO.PISA.REA.MA,526.617773627005,509.374027059677,493.39881388175
+Japan,JPN,PISA: Mean performance on the reading scale. Female,LO.PISA.REA.FE,550.723537115176,522.655280900997,513.82050431233
+Japan,JPN,PISA: Mean performance on the reading scale,LO.PISA.REA,538.051484829528,515.9585,503.856041309186
+Japan,JPN,PISA: Mean performance on the mathematics scale. Male,LO.PISA.MAT.MA,544.884436172873,539.267256758024,532.156109627177
+Japan,JPN,PISA: Mean performance on the mathematics scale. Female,LO.PISA.MAT.FE,527.01123308282,525.49599464539,522.034617536026
+Japan,JPN,PISA: Mean performance on the mathematics scale,LO.PISA.MAT,536.406918234208,532.4399,526.973250496982
+Argentina,ARG,PISA: Mean performance on the science scale. Female,LO.PISA.SCI.FE,408.888760084624,424.994351346692,399.231010217297
+Argentina,ARG,PISA: Mean performance on the science scale. Male,LO.PISA.SCI.MA,402.182790384734,440.102029698007,409.051957195621
+Argentina,ARG,PISA: Mean performance on the science scale,LO.PISA.SCI,405.632004985595,432.2262,404.071444821693
+Argentina,ARG,PISA: Mean performance on the reading scale. Male,LO.PISA.REA.MA,376.626916114613,416.966607209736,393.363200406132
+Argentina,ARG,PISA: Mean performance on the reading scale. Female,LO.PISA.REA.FE,414.251513601116,432.95807959441,409.414080880782
+Argentina,ARG,PISA: Mean performance on the reading scale,LO.PISA.REA,395.979122702168,425.3031,401.503108807317
+Argentina,ARG,PISA: Mean performance on the mathematics scale. Male,LO.PISA.MAT.MA,395.557311566371,418.388360865522,387.279359567793
+Argentina,ARG,PISA: Mean performance on the mathematics scale. Female,LO.PISA.MAT.FE,381.703703035251,400.443116055612,371.848368383667
+Argentina,ARG,PISA: Mean performance on the mathematics scale,LO.PISA.MAT,388.431709907141,409.0333,379.453816602929
+Brazil,BRA,PISA: Mean performance on the science scale. Female,LO.PISA.SCI.FE,403.949198502962,398.699999107607,404.389102013817
+Brazil,BRA,PISA: Mean performance on the science scale. Male,LO.PISA.SCI.MA,405.540952109597,402.783037454013,402.852267834125
+Brazil,BRA,PISA: Mean performance on the science scale,LO.PISA.SCI,404.710529258465,400.6821,403.620942039241
+Brazil,BRA,PISA: Mean performance on the reading scale. Male,LO.PISA.REA.MA,394.183736196679,395.463254933214,400.027391482409
+Brazil,BRA,PISA: Mean performance on the reading scale. Female,LO.PISA.REA.FE,424.733890691266,418.561682215033,425.71064817308
+Brazil,BRA,PISA: Mean performance on the reading scale,LO.PISA.REA,410.121847655763,407.3486,412.87331668525
+Brazil,BRA,PISA: Mean performance on the mathematics scale. Male,LO.PISA.MAT.MA,400.768947417648,385.040590455449,387.871670408919
+Brazil,BRA,PISA: Mean performance on the mathematics scale. Female,LO.PISA.MAT.FE,382.92535440549,369.549307407329,379.269456136934
+Brazil,BRA,PISA: Mean performance on the mathematics scale,LO.PISA.MAT,391.459888954175,377.0695,383.56912410618
+,,,,,,
+,,,,,,
+,,,,,,
+Data from database: Education Statistics - All Indicators,,,,,,
+Last Updated: 12/10/2019,,,,,,
